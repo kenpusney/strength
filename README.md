@@ -10,6 +10,6 @@
 <p align="center"><strong>强力回应</strong> 高于 合同妥协</p>
 <p align="center"><strong>坚持立场</strong> 高于 朝三暮四</p>
 
-<p align="center">也就是说，尽管右项有其价值，<br/ >
+<p align="center">也就是说，尽管右项有其价值，<br />
 我们更重视左项的价值。</p>
 
